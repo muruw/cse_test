@@ -18,7 +18,8 @@ credential.helper=manager
 rebase.usebuiltin=true
 stash.usebuiltin=true
 core.editor=nano.exe
-// Removed my name
+user.email=murumaem@gmail.com
+user.name=muruw
 core.repositoryformatversion=0
 core.filemode=false
 core.bare=false
@@ -26,4 +27,3 @@ core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
 remote.origin.url=C:/Users/Marcus/Desktop/Proge/CSE/cse2/
-gitignores removes java classes again!
