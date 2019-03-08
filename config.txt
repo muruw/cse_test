@@ -26,4 +26,4 @@ core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
 remote.origin.url=C:/Users/Marcus/Desktop/Proge/CSE/cse2/
-gitignore removes java class files
+gitignores removes java classes again!
